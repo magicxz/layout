@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">layout</string>
+
+    <string name="order_id">Order ID:</string>
+    <string name="date_time">Booking Date and Time:</string>
+    <string name="total">Total Amount:</string>
+    <string name="pack">Package:</string>
+    <string name="quantity">Quantity:</string>
+    <string name="location">Meetup Location:</string>
+    <string name="departure_date">Departure Date:</string>
+    <string name="cancel_booking">Cancel Booking</string>
+    <string name="view_voucher">View Voucher</string>
+</resources>
